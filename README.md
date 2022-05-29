@@ -1,9 +1,9 @@
 # Movie-recommendation-system
-I have done this project under Microsoft Engage Program'22.
+I have done this project under # Microsoft Engage Program'22.
 
-My recommendation system gives good movies recommendations to the user.In building this project, I have used #Content based similarity.
+My recommendation system gives good movies recommendations to the user.In building this project, I have used # Content based similarity.
 
-Collected dataset from #kaggle
+Collected dataset from # kaggle
 
 I have used libraries :
 1.)numpy
