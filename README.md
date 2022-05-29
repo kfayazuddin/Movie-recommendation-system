@@ -1,9 +1,9 @@
 # Movie-recommendation-system
-I have done this project under Microsoft engage program'22.
+I have done this project under Microsoft Engage Program'22.
 
 My recommendation system gives good movies recommendations to the user.In building this project, I have used Content based similarity.
 
-I have libaries :
+I have used libraries :
 1.)numpy
 2.)pandas
 3.)astral
@@ -17,7 +17,6 @@ Copy this and where you will be using this app code paste the copied two .pkl fi
 
 And to run the app file,use command:streamlit run filename.py, i.e streamlit run app.py
 To get posters imades i have used the tmdb link using API
-
 
 
 
